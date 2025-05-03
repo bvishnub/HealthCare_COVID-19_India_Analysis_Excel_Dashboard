@@ -10,7 +10,7 @@ The project highlights the impact of vaccination, identifies testing gaps, and s
 
 ## 📊 Dashboard Snapshot
 
-![COVID-19 Excel Dashboard](Dashnboard.png)
+![COVID-19 Excel Dashboard](Dashboard_Excel.png)
 
 
 ---
